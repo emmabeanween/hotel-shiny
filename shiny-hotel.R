@@ -25,7 +25,3 @@ shinyApp(ui, server)
 
 
 
-
-# run application 
-shinyApp(ui = ui, server = server)
-
