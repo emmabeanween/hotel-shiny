@@ -8,7 +8,7 @@ A small example of a basic web application layout.
 
 
 # fitness-calc
-A bmi calculator.
+A bmi calculator and heart rate logger.
 
 
 
