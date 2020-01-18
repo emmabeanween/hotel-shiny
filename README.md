@@ -20,3 +20,8 @@ A basic idea for showing stock returns for the past week, month, and year where 
 
 A dynamic input feature allows the user to book a varied number of tickets.
 
+# screenshots
+
+ <img src="https://raw.githubusercontent.com/emmabeanween/shiny-apps/master/images/screenshotone.png" 
+ width="600" height="380">
+
