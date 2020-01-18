@@ -24,4 +24,5 @@ A dynamic input feature allows the user to book a varied number of tickets.
 
  <img src="https://raw.githubusercontent.com/emmabeanween/shiny-apps/master/images/screenshotone.png" 
  width="600" height="380">
-
+ <img src="https://raw.githubusercontent.com/emmabeanween/shiny-apps/master/images/screenshottwo.png" 
+ width="600" height="380">
